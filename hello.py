@@ -19,4 +19,4 @@ diff = 100 - age
 
 
 
-prinf 'Hello', name + ', you will bi 100 in ', diff, 'years!'
+print 'Hello', name + ', you will be 100 in ', diff, 'years!'
